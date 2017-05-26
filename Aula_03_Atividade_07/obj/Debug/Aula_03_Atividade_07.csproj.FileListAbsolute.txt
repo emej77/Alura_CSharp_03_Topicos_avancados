@@ -1,0 +1,8 @@
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\bin\Debug\Aula_03_Atividade_07.exe.config
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\bin\Debug\Aula_03_Atividade_07.exe
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\bin\Debug\Aula_03_Atividade_07.pdb
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\obj\Debug\Aula_03_Atividade_07.Form1.resources
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\obj\Debug\Aula_03_Atividade_07.Properties.Resources.resources
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\obj\Debug\Aula_03_Atividade_07.csproj.GenerateResource.Cache
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\obj\Debug\Aula_03_Atividade_07.exe
+C:\Users\elias\documents\visual studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_03_Atividade_07\obj\Debug\Aula_03_Atividade_07.pdb

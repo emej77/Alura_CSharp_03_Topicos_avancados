@@ -1,0 +1,9 @@
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\bin\Debug\Aula_04_Atividade_06.exe.config
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\bin\Debug\Aula_04_Atividade_06.exe
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\bin\Debug\Aula_04_Atividade_06.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.Principal.resources
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.Properties.Resources.resources
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.csproj.GenerateResource.Cache
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.exe
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_03_Topicos_avancados\Aula_04_Atividade_06\obj\Debug\Aula_04_Atividade_06.CadastroDeContas.resources
